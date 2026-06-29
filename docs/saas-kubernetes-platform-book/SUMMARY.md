@@ -1,0 +1,17 @@
+# Summary
+
+- [Introduction](README.md)
+- [Chapter 1: Platform Vision and Principles](chapters/01-platform-vision.md)
+- [Chapter 2: Tenant Isolation Models](chapters/02-tenant-isolation.md)
+- [Chapter 3: Kubernetes Platform Foundation](chapters/03-kubernetes-foundation.md)
+- [Chapter 4: Infrastructure as Code and GitOps](chapters/04-iac-gitops.md)
+- [Chapter 5: Tenant Factory and Provisioning](chapters/05-tenant-factory.md)
+- [Chapter 6: Security Architecture](chapters/06-security.md)
+- [Chapter 7: Observability, Logging, and Reliability](chapters/07-observability-reliability.md)
+- [Chapter 8: Data, Messaging, and Storage](chapters/08-data-messaging-storage.md)
+- [Chapter 9: CI/CD, Releases, and Developer Experience](chapters/09-cicd-devex.md)
+- [Chapter 10: Multi-Cloud and Portability](chapters/10-multicloud.md)
+- [Chapter 11: AI Tooling and Automation](chapters/11-ai-tooling.md)
+- [Chapter 12: Compliance, Governance, and Operations](chapters/12-compliance-operations.md)
+- [Appendix A: Reference Technology Checklist](chapters/appendix-a-technology-checklist.md)
+- [Appendix B: MVP and Enterprise Roadmaps](chapters/appendix-b-roadmaps.md)
